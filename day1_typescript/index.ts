@@ -31,6 +31,6 @@ calSums.forEach(c => { // long but best O(n) 🤷‍♂️
         }
 })
 
-console.log(`highest 3 calorie counts: ${top3}, sum: ${top3.reduce(
+console.log(`Highest 3 calorie counts: ${top3}, sum: ${top3.reduce(
     (prev, curr) => { return curr += prev })}`);
 
