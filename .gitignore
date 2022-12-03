@@ -3,3 +3,5 @@ package-lock.*
 pnpm-lock.*
 
 *.txt
+
+.vscode/
