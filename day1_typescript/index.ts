@@ -1,6 +1,6 @@
 import * as fs from 'fs'
 
-let dataString = fs.readFileSync('./day1/input.txt',
+let dataString = fs.readFileSync('input.txt',
     { encoding: 'utf-8' })
 
 let data = dataString.split('\n')
