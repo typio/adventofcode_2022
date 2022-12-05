@@ -2,7 +2,7 @@ import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Paths;
 
-class RucksackReorg {
+class day4 {
     private static int duplicatePrioritySum = 0;
     private static int badgePrioritySum = 0;
     private static int i = 0;
@@ -10,7 +10,7 @@ class RucksackReorg {
     public static void main(String[] args) {
         try {
             String[] lines = new String[3];
-            Files.lines(Paths.get("day3_java/input.txt"))
+            Files.lines(Paths.get("input.txt"))
                     .forEach(line -> {
                         duplicatePrioritySum += lookForDuplicatePriority(line);
 
