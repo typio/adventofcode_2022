@@ -23,7 +23,7 @@
 19. F#
 20. Bash
 21. Scala
-22. Elixir
-23. Crystal
+22. Carbon
+23. x86
 24. Smalltalk
 25. COBOL
