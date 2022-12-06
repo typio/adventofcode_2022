@@ -9,3 +9,6 @@ pnpm-lock.*
 *.txt
 
 .vscode/
+
+obj/
+bin/
