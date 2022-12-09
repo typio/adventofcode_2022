@@ -1,21 +1,23 @@
-# Advent of Code 2022  
-> https://adventofcode.com/2022 
+# Advent of Code 2022
+
+> https://adventofcode.com/2022
 
 ### Languages by Day:
-1. TypeScript
-2. Python
-3. Java
-4. C
-5. C#
-6. Rust
-7. Ruby
-8. Swift
+
+1. TypeScript **<sup>(great but only because it's the language of the web)</sup>**
+2. Python **<sup>(cringe)</sup>**
+3. Java **<sup>(🤮)</sup>**
+4. C **<sup>(OG, still the best)</sup>**
+5. C# **<sup>(better than java...)</sup>**
+6. Rust **<sup>(kinda extra)</sup>**
+7. Ruby **<sup>(super aesthetic, really like)</sup>**
+8. Swift **<sup>(weird, 0 aesthetic)</sup>**
 9. Go
 10. Kotlin
 11. R
 12. PHP
 13. Haskell
-14. C++
+14. C++ 
 15. Scala
 16. Dart
 17. Julia
