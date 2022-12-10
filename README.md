@@ -12,7 +12,7 @@
 6. Rust **<sup>(kinda extra)</sup>**
 7. Ruby **<sup>(super aesthetic, really like)</sup>**
 8. Swift **<sup>(weird, 0 aesthetic)</sup>**
-9. Go
+9. Go **<sup>(mid, too many packages)</sup>**
 10. Kotlin
 11. R
 12. PHP
