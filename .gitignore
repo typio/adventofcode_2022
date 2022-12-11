@@ -8,6 +8,8 @@ pnpm-lock.*
 
 *.txt
 
+*.jar
+
 .vscode/
 
 obj/
