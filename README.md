@@ -13,7 +13,7 @@
 7. Ruby **<sup>(super aesthetic, really like)</sup>**
 8. Swift **<sup>(weird, 0 aesthetic)</sup>**
 9. Go **<sup>(mid, too many packages)</sup>**
-10. Kotlin
+10. Kotlin **<sup>(ok, still has dumb java design decisions)</sup>**
 11. R
 12. PHP
 13. Haskell
