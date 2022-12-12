@@ -14,7 +14,7 @@
 8. Swift **<sup>(weird, 0 aesthetic)</sup>**
 9. Go **<sup>(mid, too many packages)</sup>**
 10. Kotlin **<sup>(ok, still has dumb java design decisions)</sup>**
-11. R
+11. R **<sup>(language makes no sense, way too high level for me, 🤢)</sup>**
 12. PHP
 13. Haskell
 14. C++ 
