@@ -14,3 +14,6 @@ pnpm-lock.*
 
 obj/
 bin/
+
+*.o
+*.hi
