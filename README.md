@@ -16,7 +16,7 @@
 10. Kotlin **<sup>(ok, still has dumb java design decisions)</sup>**
 11. R **<sup>(language makes no sense, way too high level for me, 🤢)</sup>**
 12. PHP **<sup>(not as bad as I expected, $ is dumb)</sup>**
-13. Haskell
+13. Haskell **<sup>(dope 👊, too hard 😰, I couldn't learn it in a day)</sup>** ➡️ JavaScript
 14. C++ 
 15. Scala
 16. Dart
@@ -24,8 +24,8 @@
 18. OCaml
 19. F#
 20. Bash
-21. Erlang
-22. Carbon
+21. Elixer
+22. Carbon? / Erlang?
 23. Smalltalk
 24. COBOL
 25. x86 Assembly
