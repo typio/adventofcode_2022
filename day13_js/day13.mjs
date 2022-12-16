@@ -33,16 +33,6 @@ const parsePacket = (str) => { // lmao somehow forgot about JSON.parse
     return arr
 }
 
-const compareLists = (list1, list2) => {
-    if (list1.length !== list2.length) throw new Error("lists different sizes")
-    for (let i = 0; i < list1.length; i++) {
-        if (list2[i] > list1[i]) return false
-        else if ((list2[i] < list1[i])) return true
-    }
-    return true
-}
-
-
 const comparePackets = (p1, p2) => {
     // console.log(p1, p2);
     if (p1 === undefined && p2 === undefined) return undefined;
@@ -103,5 +93,4 @@ for (let i = 0; i < sorted_data.length; i++) {
         }
 }
 
-console.log(i1 * i2);
-
+console.log(i1 * i2); // theres like a off by one error on these i values, i dont wanna fix
