@@ -20,7 +20,8 @@
 14. Common Lisp **<sup>(aight but don't like syntax, docs, ecosystem; gave up)</sup>** 👉 Julia
 
 **Giving up on 25 languages here, too time consuming, I'll just start learning Julia now.**
-_wowowow julia is awesome 42/10_
+
+*wowowow julia is awesome 42/10*
 
 15. Scala 👉 Julia
 16. Dart 👉 Julia
