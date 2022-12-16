@@ -19,9 +19,9 @@
 13. Haskell **<sup>(dope 👊, too hard 😰, I couldn't learn it in a day)</sup>** 👉 JavaScript
 14. Common Lisp **<sup>(aight but don't like syntax, docs, ecosystem; gave up)</sup>** 👉 Julia
 
-**Giving up on 25 languages here, too time consuming, I'll just start learning Julia now.**
+**Giving up on 25 languages here, too time consuming, I'll start learning Julia now.**
 
-*wowowow julia is awesome 42/10*
+*wowowow julia is awesome 10/10*
 
 15. Scala 👉 Julia
 16. Dart 👉 Julia
