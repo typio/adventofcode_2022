@@ -16,16 +16,20 @@
 10. Kotlin **<sup>(ok, still has dumb java design decisions)</sup>**
 11. R **<sup>(language makes no sense, way too high level for me, 🤢)</sup>**
 12. PHP **<sup>(not as bad as I expected, $ is dumb)</sup>**
-13. Haskell **<sup>(dope 👊, too hard 😰, I couldn't learn it in a day)</sup>** ➡️ JavaScript
-14. C++ 
-15. Scala
-16. Dart
+13. Haskell **<sup>(dope 👊, too hard 😰, I couldn't learn it in a day)</sup>** 👉 JavaScript
+14. Common Lisp **<sup>(aight but don't like syntax, docs, ecosystem; gave up)</sup>** 👉 Julia
+
+**Giving up on 25 languages here, too time consuming, I'll just start learning Julia now.**
+_wowowow julia is awesome 42/10_
+
+15. Scala 👉 Julia
+16. Dart 👉 Julia
 17. Julia
-18. OCaml
-19. F#
-20. Bash
-21. Elixer
-22. Carbon? / Erlang?
-23. Smalltalk
-24. COBOL
-25. x86 Assembly
+18. OCaml 👉 Julia
+19. F# 👉 Julia
+20. Bash 👉 Julia
+21. Elixer 👉 Julia
+22. Carbon? / Erlang? 👉 Julia
+23. Smalltalk 👉 Julia
+24. COBOL 👉 Julia
+25. x86 Assembly 👉 Julia
